@@ -25,5 +25,7 @@ Data files:
 Report and Presentation:
 
 	BarathMohanU_VidhiSinha_ProjectReport.pdf - Project report
+
 	BarathMohanU_VidhiSinha_Final_Project_Slides.pdf - Presentation slides
+
 	BarathMohanU_VidhiSinha_Final_Project_Video.mp4 - Presentation Video
